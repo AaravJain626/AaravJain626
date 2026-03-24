@@ -1,5 +1,5 @@
 # Hi there 👋
-# *Aarav Jain* -[x]
+# *Aarav Jain* 
 ### A Student And a Self-taught Programmer,I am intrested in fields like Machine Learning,Edge AI,Low-Level Programming,Computer Vision and Computer Hardware.
 
 ## My Skills and Intrests
