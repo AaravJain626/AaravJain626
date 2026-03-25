@@ -3,7 +3,7 @@
 ### A Student And a Self-taught Programmer,I am intrested in fields like Machine Learning,Edge AI,Low-Level Programming,Computer Vision and Computer Hardware.
 
 ## My Skills and Intrests
-###  **Languages:** C,C++,Python
+###  **Languages:** C,C++,Python,RUST
 ###  **Frameworks:** PyTorch,TensorFlow
 ###  **Intrests:** Parallel Computing,Hardware Optimization,Computer Architecture,Mathematics
 ###  **Current Fields of Study:** CUDA,OpenCASCADE(OCCT),Eigen,TensorRT
@@ -18,7 +18,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarav-ja1n/)
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |
- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
+ ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |<p align="left">
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
+  </a>
+</p>
 
 
 
