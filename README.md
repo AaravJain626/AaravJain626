@@ -65,7 +65,7 @@ My interests lie in understanding how things work at a fundamental level and bui
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-glow&hide_border=true&langs_count=10" width="600" alt="Language Distribution Bar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravJain626&layout=compact&theme=vision-glow&hide_border=true&langs_count=10" width="600" alt="Language Distribution Bar" />
 </p>
 ---
 
