@@ -8,7 +8,7 @@ Student • Self-Taught Programmer • Systems + AI
 
 ## About Me
 
-I am a student focused on systems, machine learning, and hardware-aware computing.  
+I am a student focused on systems, machine learning,CAD Software development(Graphics) and hardware-aware computing.  
 My interests lie in understanding how things work at a fundamental level and building efficient, real-world systems.
 
 ---
