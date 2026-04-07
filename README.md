@@ -64,10 +64,10 @@ My interests lie in understanding how things work at a fundamental level and bui
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaravJain626&theme=tokyonight" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravJain626&layout=compact&theme=vision-glow&hide_border=true&langs_count=10" width="600" alt="Language Distribution Bar" />
-</p>
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravJain626&layout=compact&theme=vision-heavy&hide_border=true" alt="Language Distribution" />
+</div>
+
 
 ## Connect
 
