@@ -19,27 +19,13 @@
 
 ## About Me
 
-```python
-class AaravJain:
-    role        = "Self-Taught Programmer"
-    location    = "Indore, India"
-    focus       = ["Systems", "AI/ML/DL", "Graphics Programming", "CAD Software"]
-    languages   = ["C", "C++", "Rust", "Python", "CUDA", "GLSL"]
-    current_project = "CAD Software with ML-based Shape Generation"
+ ### AaravJain:
+* Self-Taught Programer
 
-    interests = [
-        "Parallel Computing",
-        "GPU Memory Optimization",
-        "Computer Architecture",
-        "Edge AI & Inference",
-        "Geometry Processing",
-        "Mathematics for ML"
-    ]
+* Currently working on my CAD software with integrated GAN and 3DGS
 
-    def __init__(self):
-        self.learning = ["TensorRT", "OpenCASCADE", "CUDA Graphs", "Vulkan"]
-        self.motto = "Understand it at the metal. Build it to last."
-```
+* Programing Languages: C/C++,Rust,Python
+    
 
 ---
 
