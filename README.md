@@ -20,11 +20,13 @@
 ## About Me
 
  ### AaravJain:
-* Self-Taught Programer
+* Self-Taught engineer
 
 * Currently working on my CAD software with integrated GAN and 3DGS
 
-* Programing Languages: C/C++,Rust,Python
+* Languages: C/C++,Rust,Python
+
+* From: Vidisha,India
     
 
 ---
