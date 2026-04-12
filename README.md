@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Animated Header -->
@@ -10,8 +11,8 @@
 
 <br/>
 
-<!-- Profile views badge -->
-<img src="https://komarev.com/ghpvc/?username=AaravJain626&label=Profile+Views&color=58a6ff&style=flat-square" alt="Profile Views"/>
+
+
 
 </div>
 
