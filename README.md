@@ -1,1 +1,14 @@
-# C++
+# I am Aarav Jain a  self taught-programmer and a student,learning every day
+
+![3D Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+# My GitHub Metrics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AaravJain626&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Aarav's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaravJain626&theme=tokyonight&border_radius=10" alt="Aarav's Streak" />
+</p>
+
+### Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravJain626&layout=compact&theme=tokyonight&border_radius=10" alt="Top Langs" />
